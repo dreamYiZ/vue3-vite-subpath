@@ -27,3 +27,14 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+# 支持子路径部署
+
+* nginx.conf
+
+    修改nginx配置
+
+* vite.config.js
+
+    修改base
